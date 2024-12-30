@@ -1,16 +1,39 @@
-# auth_ui
+# Auth UI App
 
-A new Flutter project.
+![sign-ui](https://github.com/user-attachments/assets/c5cba88b-a000-4568-96a5-252b7ad100dd)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 **Features**
+- 🌟 Getting Started Page for a seamless introduction.
+- 🔒 Login functionality for secure access.
+- 📝 Register new users effortlessly.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 **Getting Started**
+Follow these steps to run the project locally.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **Prerequisites**
+Ensure you have the following installed:
+- Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
+- Android Studio or Visual Studio Code with Flutter plugins.
+
+### **Installation**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/fahmiibrahimdevs/auth-ui-flutter
+   cd auth-ui-flutter
+
+2. Install dependencies:
+   ```bash
+   flutter pub get
+   
+3. Run the app:
+   ```bash
+   flutter run
+
+---
+## 📝 **License**
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/fahmiibrahimdevs/auth-ui-flutter/blob/main/LICENSE) file for details.
