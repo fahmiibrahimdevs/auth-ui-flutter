@@ -36,4 +36,4 @@ Ensure you have the following installed:
 ---
 ## 📝 **License**
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/fahmiibrahimdevs/auth-ui-flutter/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/fahmiibrahimdevs/auth-ui-flutter/blob/main/LICENSE) file fordetails.
